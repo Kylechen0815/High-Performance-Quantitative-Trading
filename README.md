@@ -17,6 +17,11 @@ Below are the terminal execution logs demonstrating the bot successfully fetchin
 
 <img width="1658" height="221" alt="屏幕截图 2026-01-14 012736" src="https://github.com/user-attachments/assets/040bbb4d-6102-4615-a61b-03f5a0912e60" />
 
+###  TradingView interface
+
+<img width="1838" height="855" alt="屏幕截图 2026-09-05 163302" src="https://github.com/user-attachments/assets/d5231df1-1589-490f-bfa3-b7bab4d3fd28" />
+
+
 ## parameter optimized：
 
 To ensure the strategy remains robust and adapts to different market regimes, a built-in parameter optimization module is included. It iterates through various combinations of indicator thresholds (e.g., ER length, R2, Climax Multiplier) to identify the most profitable and stable configurations before deploying live.
