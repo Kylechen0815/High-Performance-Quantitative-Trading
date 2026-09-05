@@ -22,8 +22,7 @@ Below are the terminal execution logs demonstrating the bot successfully fetchin
 <img width="1838" height="855" alt="屏幕截图 2026-09-05 163302" src="https://github.com/user-attachments/assets/d5231df1-1589-490f-bfa3-b7bab4d3fd28" />
 
 
-
-
+<img width="1842" height="911" alt="屏幕截图 2026-09-05 171437" src="https://github.com/user-attachments/assets/3032c7ee-706e-424e-a889-65bebbc69ad6" />
 
 
 ## parameter optimized：
