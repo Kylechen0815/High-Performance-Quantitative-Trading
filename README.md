@@ -4,6 +4,11 @@
 
 This section of the repository focuses on live algorithmic trading execution. Built with Python and the `ccxt` (CryptoCurrency eXchange Trading Library) framework, this bot connects directly to cryptocurrency exchange APIs to fully automate the customized strategy described above.
 
+## Demo & Documentation
+
+- Bitcoin - 5min: [click here to see report and scrpit](https://tw.tradingview.com/script/GXHAndCV/)
+- SOXX - 1day:  [click here to see report and scrpit](https://tw.tradingview.com/script/K1onF9Jv/)
+
 ###  Core Execution Features
 - **Automated Order Placement:** Programmatically executes buy and sell orders based on real-time strategy signals without manual intervention.
 - **Strict Position Management:** Enforces a rigid "hold one position at a time" rule. The bot will automatically verify current exposure and will not open concurrent positions, ensuring strict risk management.
@@ -34,8 +39,7 @@ To ensure the strategy remains robust and adapts to different market regimes, a 
 <img width="603" height="402" alt="image" src="https://github.com/user-attachments/assets/ce85aa9c-d995-4cf9-85d1-03d58913dcf6" />
 
 
-##Demo & Documentation
-- Bitcoin - 5min: [click here to see report and scrpit](https://tw.tradingview.com/script/GXHAndCV/)
-- SOXX - 1day:  [click here to see report and scrpit](https://tw.tradingview.com/script/K1onF9Jv/)
+
+
 
 
