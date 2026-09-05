@@ -28,4 +28,6 @@ To ensure the strategy remains robust and adapts to different market regimes, a 
 
 <img width="590" height="383" alt="屏幕截图 2026-01-23 010351" src="https://github.com/user-attachments/assets/6c01aec9-c6da-4b26-a629-1591188ec483" />
 
+<img width="603" height="402" alt="image" src="https://github.com/user-attachments/assets/ce85aa9c-d995-4cf9-85d1-03d58913dcf6" />
+
 
