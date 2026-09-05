@@ -30,7 +30,7 @@ Below are the terminal execution logs demonstrating the bot successfully fetchin
 <img width="1842" height="911" alt="屏幕截图 2026-09-05 171437" src="https://github.com/user-attachments/assets/3032c7ee-706e-424e-a889-65bebbc69ad6" />
 
 
-## parameter optimized：
+## parameter optimized
 
 To ensure the strategy remains robust and adapts to different market regimes, a built-in parameter optimization module is included. It iterates through various combinations of indicator thresholds (e.g., ER length, R2, Climax Multiplier) to identify the most profitable and stable configurations before deploying live.
 
