@@ -4,12 +4,12 @@
 
 This section of the repository focuses on live algorithmic trading execution. Built with Python and the `ccxt` (CryptoCurrency eXchange Trading Library) framework, this bot connects directly to cryptocurrency exchange APIs to fully automate the customized strategy described above.
 
-### ⚙️ Core Execution Features
+###  Core Execution Features
 - **Automated Order Placement:** Programmatically executes buy and sell orders based on real-time strategy signals without manual intervention.
 - **Strict Position Management:** Enforces a rigid "hold one position at a time" rule. The bot will automatically verify current exposure and will not open concurrent positions, ensuring strict risk management.
 - **Exchange Integration:** Leverages `ccxt` for secure, low-latency communication with exchange endpoints (e.g., Binance, Bybit) to fetch tickers, account balances, and create orders.
 
-### 📊 Live Execution & Order Logs
+###  Live Execution & Order Logs
 
 Below are the terminal execution logs demonstrating the bot successfully fetching market data, evaluating entry/exit conditions, and executing trades:
 
@@ -23,12 +23,4 @@ To ensure the strategy remains robust and adapts to different market regimes, a 
 
 <img width="590" height="383" alt="屏幕截图 2026-01-23 010351" src="https://github.com/user-attachments/assets/6c01aec9-c6da-4b26-a629-1591188ec483" />
 
----
 
-### 🚀 Setup & Execution
-
-#### 1. API Configuration
-Create a `.env` file or configure your API credentials securely. **Never commit your secret keys to GitHub.**
-```python
-API_KEY = "your_exchange_api_key_here"
-API_SECRET = "your_exchange_api_secret_here"
