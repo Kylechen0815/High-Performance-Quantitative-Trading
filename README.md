@@ -1,4 +1,4 @@
-# Use cxxt to accomplish the auto Bitcoin transaction with customized strategy
+# High-Performance Quantitative Trading Backtesting & Multi-Indicator Optimization System
 
 ## Included making sell and buy, but holding one postion at a time.
 
