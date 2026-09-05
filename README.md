@@ -36,6 +36,6 @@ To ensure the strategy remains robust and adapts to different market regimes, a 
 
 ##Demo & Documentation
 - Bitcoin - 5min: [click here to see report and scrpit](https://tw.tradingview.com/script/GXHAndCV/)
-- Project Report: View the full PDF documentation
+- SOXX - 1day:  [click here to see report and scrpit](https://tw.tradingview.com/script/K1onF9Jv/)
 
 
