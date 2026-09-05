@@ -19,13 +19,10 @@ Below are the terminal execution logs demonstrating the bot successfully fetchin
 
 ###  TradingView interface
 
-Bitcoin - 5min:
-
 <img width="1838" height="855" alt="屏幕截图 2026-09-05 163302" src="https://github.com/user-attachments/assets/d5231df1-1589-490f-bfa3-b7bab4d3fd28" />
 
-[click here to see report and scrpit](https://tw.tradingview.com/script/GXHAndCV/)
 
-Stock - 1day:
+
 
 
 
@@ -36,5 +33,10 @@ To ensure the strategy remains robust and adapts to different market regimes, a 
 <img width="590" height="383" alt="屏幕截图 2026-01-23 010351" src="https://github.com/user-attachments/assets/6c01aec9-c6da-4b26-a629-1591188ec483" />
 
 <img width="603" height="402" alt="image" src="https://github.com/user-attachments/assets/ce85aa9c-d995-4cf9-85d1-03d58913dcf6" />
+
+
+##Demo & Documentation
+- Bitcoin - 5min: [click here to see report and scrpit](https://tw.tradingview.com/script/GXHAndCV/)
+- Project Report: View the full PDF documentation
 
 
