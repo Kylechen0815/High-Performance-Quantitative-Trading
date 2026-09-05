@@ -19,7 +19,14 @@ Below are the terminal execution logs demonstrating the bot successfully fetchin
 
 ###  TradingView interface
 
+Bitcoin - 5min:
+
 <img width="1838" height="855" alt="屏幕截图 2026-09-05 163302" src="https://github.com/user-attachments/assets/d5231df1-1589-490f-bfa3-b7bab4d3fd28" />
+
+[click here to see report and scrpit](https://tw.tradingview.com/script/GXHAndCV/)
+
+Stock - 1day:
+
 
 
 ## parameter optimized：
